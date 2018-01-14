@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jan 2018 20:19:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=df6e73b8a367baa24602ca455f996426e1515961173; expires=Mon, 14-Jan-19 20:19:33 GMT; path=/; domain=.orcid.org; HttpOnly
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 3dd34a76de2c27e0-YYZ
+
+{"access_token":"79bd2af3-8079-454e-9807-031545a9acac","token_type":"bearer","refresh_token":"03eb52fd-2fe3-4278-bd44-77a65b652cc9","expires_in":631138518,"scope":"/read-public","orcid":null}
