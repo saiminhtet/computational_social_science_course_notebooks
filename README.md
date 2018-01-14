@@ -1,0 +1,2 @@
+# computational_social_science_course_notebooks
+Tutorial notebooks for teaching computational social science
